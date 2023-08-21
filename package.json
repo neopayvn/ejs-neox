@@ -1,12 +1,12 @@
 {
-  "name": "ejs",
+  "name": "ejs-neox",
   "description": "Embedded JavaScript templates",
   "keywords": [
     "template",
     "engine",
     "ejs"
   ],
-  "version": "3.1.9",
+  "version": "1.0.0",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "license": "Apache-2.0",
   "bin": {
@@ -20,7 +20,7 @@
     "url": "git://github.com/mde/ejs.git"
   },
   "bugs": "https://github.com/mde/ejs/issues",
-  "homepage": "https://github.com/mde/ejs",
+  "homepage": "https://github.com/neopayvn/ejs-neox",
   "dependencies": {
     "jake": "^10.8.5"
   },
